@@ -1,3 +1,3 @@
 node /agent/ {
-  include puppetdev
+  include puppetdep
 }
