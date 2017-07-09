@@ -12,7 +12,7 @@ mod 'puppetlabs-ntp',
 
 mod 'puppetdep',
   :git => 'git://github.com/popul/puppetdep.git',
-  :branch => 'master'
+  :ref => 'master'
 
 # A module from a git branch/tag
 mod 'puppetlabs-apt',
