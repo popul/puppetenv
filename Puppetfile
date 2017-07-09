@@ -10,7 +10,7 @@ mod 'puppetlabs-stdlib'
 mod 'puppetlabs-ntp',
   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
 
-mod 'puppetdep',
+mod 'popul-puppetdep',
   :git => 'git://github.com/popul/puppetdep.git',
   :ref => 'master'
 
